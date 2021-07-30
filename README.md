@@ -1,2 +1,4 @@
 # Hotel-Reservation_System
 Our goal is make a reservation system for hotels to make receptionist duty easier.So receptionist don’t have to write guests name,surname,room number,reservation day,check-in and check-out day and room type thanks to our program.Also receptionist do not have to keep datas of guests.Furthermore there is time wasting to write all informations and keep them so our program will prevent waste of time.Moreover we decrease  consumption of paper so we help to recycling and natural life by using this program.
+
+This program basic data objects are name,surname,date,room number,budget and date of reservation.We need to define a structure type that groups all relevant attributes about reservation. Then we can store database of these structures in an array and look up compare and use these values as needed . To use these values , the receptionist will need to enter guest name and surname, check-in check-out days and room type. 
