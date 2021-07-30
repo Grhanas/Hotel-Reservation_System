@@ -1,0 +1,8 @@
+ridvan turan 12 1 13 1 17 1 1004 600
+dogan turan 10 1 13 1 18 1 1003 750
+kagan fikirkoca 10 1 14 1 19 1 1001 900
+mark zuckerberg 15 1 16 1 5 2 5003 19000
+cem yilmaz 10 1 13 1 17 1 1002 600
+ismail can 10 1 27 1 2 2 4003 3750
+acun ilicali 5 1 12 1 15 1 1005 450
+beck william 6 1 21 1 24 1 2002 750
